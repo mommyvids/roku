@@ -1,0 +1,99 @@
+
+
+{  
+   "providerName":"Hot Web Ideas, Inc.",
+   "language":"en-US",
+   "lastUpdated":"2019-10-11T12:00:00.125Z",
+
+		
+		"shortFormVideos":[
+		
+				  {  
+					 "id":"all_videos-13",
+					 "title":"Creating Posts",
+					 "shortDescription":"Posts are the foundation of blogging in WordPress Learn how to do it in this video",
+					 "longDescription":"Without creating posts in WordPress, you do not have a blog WordPress posts are the lifeblood on your blog This video shows how to set everything up",
+					 "thumbnail":"https://tvchannelpress.comfiles/2018/07/creatingposts1.png",
+					 "genres":[  
+						"technology"
+					 ],
+					 "tags":[  
+						"beginner"
+					 ],
+					 "releaseDate":"2018-07-22",
+					 "content":{  
+						"dateAdded":"2018-07-22T12:00:00.000Z",
+						"captions":[  
+
+						],
+						"duration":302,
+						"videos":[  
+						   {  
+							  "url":"https://player.vimeo.com/external/258447934.sd.mp4?s=579f8a30129db57ef7107107b0cf00819faac740&profile_id=165",
+							  "quality":"HD",
+							  "videoType":"MP4"
+						   }
+						]
+					 }
+				  }, 
+				
+				  {  
+					 "id":"all_videos-11",
+					 "title":"Wordpress – Changing Themes To A More Engaging Look",
+					 "shortDescription":"This video shows the proper way to change themes",
+					 "longDescription":"If you need some help changing themes, follow the steps in this video and we will show you how to properly select a theme as well as its options",
+					 "thumbnail":"https://tvchannelpress.comfiles/2018/07/changingthemes1.png",
+					 "genres":[  
+						"action"
+					 ],
+					 "tags":[  
+						"beginner","themes"
+					 ],
+					 "releaseDate":"2018-07-22",
+					 "content":{  
+						"dateAdded":"2018-07-22T12:00:00.000Z",
+						"captions":[  
+
+						],
+						"duration":222,
+						"videos":[  
+						   {  
+							  "url":"https://player.vimeo.com/external/258447944.sd.mp4?s=cabae54a2aef80ea9de53afddd6eabacd2ab0647&profile_id=165",
+							  "quality":"HD",
+							  "videoType":"HLS"
+						   }
+						]
+					 }
+				  }, 
+				
+				  {  
+					 "id":"all_videos-9",
+					 "title":"Become A Powerful Wordpress Administrator And Webmaster",
+					 "shortDescription":"Starting a Roku channel teaching people how to start, manage, develop and design WordPress websites from all levels ",
+					 "longDescription":"Whether you want to design a WordPress website, secure it, find themes, develop plugins, we are putting up new videos every week to help people of all skill levels get into WordPress and to design amazing websites",
+					 "thumbnail":"https://tvchannelpress.comfiles/2018/07/intro1.png",
+					 "genres":[  
+						"educational"
+					 ],
+					 "tags":[  
+						"starthere"
+					 ],
+					 "releaseDate":"2018-07-22",
+					 "content":{  
+						"dateAdded":"2018-07-22T12:00:00.000Z",
+						"captions":[  
+
+						],
+						"duration":300,
+						"videos":[  
+						   {  
+							  "url":"https://player.vimeo.com/external/257288697.hd.mp4?s=f1b725d262e892767c3f132ba4a707706bede284&profile_id=175",
+							  "quality":"HD",
+							  "videoType":"MP4"
+						   }
+						]
+					 }
+				  } 
+				   
+   ] 
+}
