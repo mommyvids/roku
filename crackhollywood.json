@@ -7,12 +7,12 @@
   "shortFormVideos": [
     {
       "id": "1622",
-      "title": "video 2",
+      "title": "First Impressions - Rihanna Kanye West and Daft Punk",
       "content": {
         "dateAdded": "2019-10-11T18:57:28+00:00",
         "videos": [
           {
-            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/t/5a24599df36d9e0400065f20/1351620000001-000001.mp4",
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/4a4f2d6b986d5e58690fb7332a489e834301650986351a643f03836e0c2e2ea1/t/5da360ac98c5b60400964494/1351620000001-000001.mp4",
             "quality": "HD",
             "videoType": "MP4",
             "bitrate": null
@@ -26,10 +26,72 @@
       ],
       "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
       "releaseDate": "2019-10-11T18:57:28+00:00",
-      "shortDescription": "Sexy & Beautiful Eye Makeup and Eyelash Tutorial",
-      "longDescription": "A step by step guide on how to do eye makeup the best way!",
+      "shortDescription": "First Impressions - Rihanna Kanye West and Daft Punk",
+      "longDescription": "First Impressions - Rihanna Kanye West and Daft Punk!",
       "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "1623",
+      "title": "Episode 2 - Carrie Undwerwood, Foo Fighters, more Kanye West, Chemical Brothers",
+      "content": {
+        "dateAdded": "2019-10-11T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/4a4f2d6b986d5e58690fb7332a489e834301650986351a643f03836e0c2e2ea1/t/5da360acb96eb80400b44701/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
         "fashion",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
+      "releaseDate": "2019-10-11T18:57:28+00:00",
+      "shortDescription": "Episode 2 - Carrie Undwerwood, Foo Fighters, more Kanye West, Chemical Brothers",
+      "longDescription": "Episode 2 - Carrie Undwerwood, Foo Fighters, more Kanye West, Chemical Brothers.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
+      "id": "1624",
+      "title": "Episode 3 - George Lopez is Real Comedy",
+      "content": {
+        "dateAdded": "2019-10-11T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/4a4f2d6b986d5e58690fb7332a489e834301650986351a643f03836e0c2e2ea1/t/5da360ac17cf3a04003a1fe8/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
+      "releaseDate": "2019-10-11T18:57:28+00:00",
+      "shortDescription": "Episode 3 - George Lopez is Real Comedy",
+      "longDescription": "Episode 3 - George Lopez is Real Comedy",
+      "tags": [
+        "comedy",
         "style"
       ],
       "credits": null,
