@@ -1,18 +1,18 @@
 {
-  "providerName": "Anand Bhatt Latindian Style",
-  "lastUpdated": "2019-10-11T00:19:45+00:00",
+  "providerName": "Cracking Hollywood",
+  "lastUpdated": "2019-10-11T18:57:28+00:00",
   "language": "en",
   "movies": [],
   "series": [],
   "shortFormVideos": [
     {
-      "id": "1620",
-      "title": "Subscribing gets you more",
+      "id": "1622",
+      "title": "video 2",
       "content": {
-        "dateAdded": "2019-10-11T00:17:23+00:00",
+        "dateAdded": "2019-10-11T18:57:28+00:00",
         "videos": [
           {
-            "url": "http://redcarpetblog.certaire.com/wp-content/uploads/2019/10/anand-bhatt-channel-intro.mp4",
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/t/5a24599df36d9e0400065f20/1351620000001-000001.mp4",
             "quality": "HD",
             "videoType": "MP4",
             "bitrate": null
@@ -24,7 +24,38 @@
         "fashion",
         "news"
       ],
-      "thumbnail": "http://redcarpetblog.certaire.com/wp-content/uploads/2017/12/hard-rock-photo-2.jpg",
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2019-10-11T18:57:28+00:00",
+      "shortDescription": "Sexy & Beautiful Eye Makeup and Eyelash Tutorial",
+      "longDescription": "A step by step guide on how to do eye makeup the best way!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "1620",
+      "title": "Subscribing gets you more",
+      "content": {
+        "dateAdded": "2019-10-11T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/t/5a24599df36d9e0400065f20/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
       "releaseDate": "2019-10-11T00:19:45+00:00",
       "shortDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
       "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
@@ -45,8 +76,8 @@
       "order": "chronological"
     },
     {
-      "name": "style",
-      "playlistName": "style",
+      "name": "comedy",
+      "playlistName": "fun",
       "order": "chronological"
     }
   ],
@@ -54,12 +85,14 @@
     {
       "name": "fashion",
       "itemIds": [
+        "1622",
         "1620"
       ]
     },
     {
       "name": "style",
       "itemIds": [
+        "1622",
         "1620"
       ]
     }
