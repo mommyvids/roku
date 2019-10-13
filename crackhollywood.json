@@ -1,0 +1,67 @@
+{
+  "providerName": "Anand Bhatt Latindian Style",
+  "lastUpdated": "2019-10-11T00:19:45+00:00",
+  "language": "en",
+  "movies": [],
+  "series": [],
+  "shortFormVideos": [
+    {
+      "id": "1620",
+      "title": "Subscribing gets you more",
+      "content": {
+        "dateAdded": "2019-10-11T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "http://redcarpetblog.certaire.com/wp-content/uploads/2019/10/anand-bhatt-channel-intro.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/wp-content/uploads/2017/12/hard-rock-photo-2.jpg",
+      "releaseDate": "2019-10-11T00:19:45+00:00",
+      "shortDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    }
+  ],
+  "tvSpecials": [],
+  "categories": [
+    {
+      "name": "fashion",
+      "playlistName": "fashion",
+      "order": "chronological"
+    },
+    {
+      "name": "style",
+      "playlistName": "style",
+      "order": "chronological"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "fashion",
+      "itemIds": [
+        "1620"
+      ]
+    },
+    {
+      "name": "style",
+      "itemIds": [
+        "1620"
+      ]
+    }
+  ]
+}
