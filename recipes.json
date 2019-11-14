@@ -1,0 +1,131 @@
+{
+  "providerName": "Rock Star Recipes",
+  "lastUpdated": "2019-11-13T18:57:28+00:00",
+  "language": "en",
+  "movies": [],
+  "series": [],
+  "shortFormVideos": [
+    {
+      "id": "1622",
+      "title": "Sun Dried Tofu Bake",
+      "content": {
+        "dateAdded": "2019-11-13T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/t/5dcda4ef13bfcd0400585293/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/VB7S0sn1_background.jpg",
+      "releaseDate": "2019-11-13T18:57:28+00:00",
+      "shortDescription": "Watch Anand Bhatt as he shares the latest recipes, cooking tips, lifestyle insights, and fun anecdotes!",
+      "longDescription": "Watch Anand Bhatt as he shares the latest recipes, cooking tips, lifestyle insights, and fun anecdotes!",
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "11420191",
+      "title": "Healing Crystals - Rose Quartz",
+      "content": {
+        "dateAdded": "2019-10-11T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126f116a2f0400fd618c/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2019-11-10T00:19:45+00:00",
+      "shortDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "1620",
+      "title": "Subscribing gets you more",
+      "content": {
+        "dateAdded": "2019-10-11T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/t/5a24599df36d9e0400065f20/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "food",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2019-10-11T00:19:45+00:00",
+      "shortDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    }
+  ],
+  "tvSpecials": [],
+  "categories": [
+    {
+      "name": "food",
+      "playlistName": "food",
+      "order": "chronological"
+    },
+    {
+      "name": "cooking",
+      "playlistName": "cooking",
+      "order": "chronological"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "food",
+      "itemIds": [
+        "1622",
+        "1620"
+      ]
+    },
+    {
+      "name": "cooking",
+      "itemIds": [
+        "1622",
+        "1620"
+      ]
+    }
+  ]
+}
