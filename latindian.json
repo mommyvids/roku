@@ -36,6 +36,37 @@
       "rating": null,
       "externalIds": null
     },
+    {
+      "id": "111420191",
+      "title": "How to Hide Ear Muffs  - Hair Tips",
+      "content": {
+        "dateAdded": "2019-11-14T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126f042a660400abfa0a/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2019-11-14T00:19:45+00:00",
+      "shortDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
      {
       "id": "11420191",
       "title": "Healing Crystals - Rose Quartz",
