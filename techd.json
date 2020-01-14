@@ -38,7 +38,7 @@
     },
     {
       "id": "1623",
-      "title": "DeePoon Gaming Chait",
+      "title": "DeePoon Gaming Chair",
       "content": {
         "dateAdded": "2019-10-11T18:57:28+00:00",
         "videos": [
@@ -62,6 +62,99 @@
       "tags": [
         "technology",
         "reviews"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+         {
+      "id": "1625",
+      "title": "China at CES",
+      "content": {
+        "dateAdded": "2020-01-14T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/1e89ff40134bef5eaa06a38b806009b65792d6fdd81f0cdd65e60bffd3eecc73/t/5da371f87ec7e404003dbd71/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "technology",
+        "documentary"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/techd.jpg",
+      "releaseDate": "2020-01-14T18:57:28+00:00",
+      "shortDescription": "China at CES",
+      "longDescription": "China at CES",
+      "tags": [
+        "technology",
+        "news"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+           {
+      "id": "1626",
+      "title": "The World's Most Advanced Smartwatch For Kids",
+      "content": {
+        "dateAdded": "2020-01-14T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/1e89ff40134bef5eaa06a38b806009b65792d6fdd81f0cdd65e60bffd3eecc73/t/5da38e836dea950400681c66/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "technology",
+        "documentary"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/techd.jpg",
+      "releaseDate": "2020-01-14T18:57:28+00:00",
+      "shortDescription": "The World's Most Advanced Smartwatch For Kids.",
+      "longDescription": "The World's Most Advanced Smartwatch For Kids.",
+      "tags": [
+        "technology",
+        "news"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+      {
+      "id": "1627",
+      "title": "The Pairable Teddy Bear",
+      "content": {
+        "dateAdded": "2020-01-14T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/1e89ff40134bef5eaa06a38b806009b65792d6fdd81f0cdd65e60bffd3eecc73/t/5da38e832254dd040075921f/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "technology",
+        "documentary"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/techd.jpg",
+      "releaseDate": "2020-01-14T18:57:28+00:00",
+      "shortDescription": "The Pairable Teddy Bear.",
+      "longDescription": "The Pairable Teddy Bear.",
+      "tags": [
+        "technology",
+        "news"
       ],
       "credits": null,
       "rating": null,
