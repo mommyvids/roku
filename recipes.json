@@ -316,6 +316,130 @@
       "externalIds": null
     },
     {
+      "id": "12220201",
+      "title": "Turmeric Capsules Unboxing",
+      "content": {
+        "dateAdded": "2020-01-21T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126f11690f04004fae77/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2020-01-21T00:19:45+00:00",
+      "shortDescription": "Unboxing Turmeric Capsules",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "12220202",
+      "title": "Unbreakable Water Bottles",
+      "content": {
+        "dateAdded": "2020-01-21T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126fb080ab040056ed35/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2020-01-21T00:19:45+00:00",
+      "shortDescription": "Are unbreakable water bottles a real thing? Let's unbox a Glastic",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "12220203",
+      "title": "Charcoal Clay Mask",
+      "content": {
+        "dateAdded": "2020-01-21T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126ff23378040065894e/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2020-01-21T00:19:45+00:00",
+      "shortDescription": "Anand tries out a Charcoal Clay Mask on his face!",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
+      "id": "12220204",
+      "title": "Is Sugar Free Xylitol Candy For Real?",
+      "content": {
+        "dateAdded": "2020-01-21T00:17:23+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/9ff23ba703dcc0c02cc1afd555893cb42c0970ab28559f9f8ae62ed35dc06c68/t/5dc0126ff23378040065894e/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c860ae6e62c35819757655e5dae0d874945fc73df79ab73fb75cd5c0e93b7f2f/DS0893Cw_background.jpg",
+      "releaseDate": "2020-01-21T00:19:45+00:00",
+      "shortDescription": "Anand tries out Ice Chips - a candy made from Xylitol",
+      "longDescription": "Get the inside scoop from Anand Bhatt about fashion, red carpets, style, foodie stuff, new music, new movies and more!",
+      "tags": [
+        "fashion",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
       "id": "11420191",
       "title": "Healing Crystals - Rose Quartz",
       "content": {
