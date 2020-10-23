@@ -99,6 +99,37 @@
       "externalIds": null
     },
      {
+      "id": "102320201",
+      "title": "Star Wars - is Jar Jar Racist or a Secret Future Plot Twist?",
+      "content": {
+        "dateAdded": "2020-10-22T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c660d3852ddd8d989b4449a7d0e50fb6bf9d53aea0019d178cb2315808e43f2e/t/5f933a5f57bc230400b7e3c6/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
+      "releaseDate": "2020-02-04T11:57:28+00:00",
+      "shortDescription": "Star Wars - is Jar Jar Racist or a Secret Future Plot Twist?",
+      "longDescription": "Star Wars - is Jar Jar Racist or a Secret Future Plot Twist?",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
       "id": "2420201",
       "title": "Katy Perry and Taylor Swift When Adversity Equals Music Sales",
       "content": {
