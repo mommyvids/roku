@@ -36,6 +36,68 @@
       "rating": null,
       "externalIds": null
     },
+     {
+      "id": "103120201",
+      "title": "What to Bing Watch Right Now!",
+      "content": {
+        "dateAdded": "2020-10-30T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c7057d407ecaf027c4ed2c4475fd8488cf7616854a96cc72a667a32cdec3cf8d/t/5f9d86717b3dd50400610c6e/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
+      "releaseDate": "2020-10-30T11:57:28+00:00",
+      "shortDescription": "Late to some shows? What's still worth watching? From Handmaid's Tale to the Breaking Bad Movie - Let's find out!",
+      "longDescription": "Late to some shows? What's still worth watching? From Handmaid's Tale to the Breaking Bad Movie - Let's find out!",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "103120202",
+      "title": "The Silliest 80s Band Names",
+      "content": {
+        "dateAdded": "2020-10-30T11:59:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/c7057d407ecaf027c4ed2c4475fd8488cf7616854a96cc72a667a32cdec3cf8d/t/5f9d8671f9436d0400edfbd1/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/hollywood-rokuback.jpg",
+      "releaseDate": "2020-10-30T11:59:28+00:00",
+      "shortDescription": "From Air Supply to REO Speedwagon, what are the silliest 80s band names",
+      "longDescription": "The Silliest 80s Band Names",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
     {
       "id": "1623",
       "title": "Carrie Undwerwood, Foo Fighters, more Kanye West, Chemical Brothers",
