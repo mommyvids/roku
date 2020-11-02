@@ -37,6 +37,68 @@
       "externalIds": null
     },
      {
+      "id": "110120201",
+      "title": "Is Tekashi 6ix9ine a Super Villain?",
+      "content": {
+        "dateAdded": "2020-11-01T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/62b955824df3f30ff10b271730b555f926fba43c75a81b7f1a08d619c9679007/t/5fa043e2878ebc040051ea1b/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-01T11:57:28+00:00",
+      "shortDescription": "Is Tekashi 69 a Super Villain? - Let's find out!",
+      "longDescription": "69 or T69 or Tekashi 69 is into a lot of shady stuff. Is Tekashi 6ix9ine a Super Villain?!",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
+      "id": "110120202",
+      "title": "The Music Industry Then and Now",
+      "content": {
+        "dateAdded": "2020-11-01T11:58:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/62b955824df3f30ff10b271730b555f926fba43c75a81b7f1a08d619c9679007/t/5fa043e2d001bc0400e6593b/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-01T11:58:28+00:00",
+      "shortDescription": "The Music Industry Then and Now",
+      "longDescription": "The Music Industry Then and Now!",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
       "id": "103120201",
       "title": "What to Bing Watch Right Now!",
       "content": {
