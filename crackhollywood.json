@@ -6,6 +6,68 @@
   "series": [],
   "shortFormVideos": [
     {
+      "id": "110820201",
+      "title": "New Roku Promos",
+      "content": {
+        "dateAdded": "2020-11-07T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/863d75823b12c7b2816552d1b61d49c2df7aada4e1f1be5850c6f45b1ef02869/t/5fa86b972a5edc040090d451/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-07T11:57:28+00:00",
+      "shortDescription": "New Roku Promos",
+      "longDescription": "What's on ROKU right now.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "110820202",
+      "title": "Black Lightning Star Talks About Donald Glover",
+      "content": {
+        "dateAdded": "2020-11-06T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/863d75823b12c7b2816552d1b61d49c2df7aada4e1f1be5850c6f45b1ef02869/t/5fa86b972a5edc040090d452/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-06T11:57:28+00:00",
+      "shortDescription": "Black Lightning Star Talks About Donald Glover ",
+      "longDescription": "Black Lightning Star Talks About Donald Glover.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
       "id": "1622",
       "title": "First Impressions - Rihanna Kanye West and Daft Punk",
       "content": {
@@ -59,6 +121,37 @@
       "releaseDate": "2020-11-04T11:57:28+00:00",
       "shortDescription": "CBD for Muscle Pain Reviews + Mike Tyson trolls for Porn Stars",
       "longDescription": "We review which CBD products actually work for muscle and joint pain. Plus, Did we just catch Mike Tyson trolling for Porn Stars? And, Tekashi 69 can't stay out of trouble but it seems to be working for him.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
+      "id": "110820203",
+      "title": "Is Gen Z Bad at Halloween?",
+      "content": {
+        "dateAdded": "2020-11-05T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/863d75823b12c7b2816552d1b61d49c2df7aada4e1f1be5850c6f45b1ef02869/t/5fa86b972a5edc040090d453/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-05T11:57:28+00:00",
+      "shortDescription": "Is Gen Z Bad at Halloween?",
+      "longDescription": "Is Gen Z Bad at Halloween?",
       "tags": [
         "comedy",
         "style"
