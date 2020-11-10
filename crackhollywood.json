@@ -129,6 +129,68 @@
       "rating": null,
       "externalIds": null
     },
+    {
+      "id": "110920201",
+      "title": "Adam Sandler in Hubie Halloween",
+      "content": {
+        "dateAdded": "2020-11-08T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/ba9bc7c9852d800c1e12cc65c9b6b89756b5c72c367f4f3625af260b4f82fe73/t/5fa9efaf6428fb0400744676/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-08T11:57:28+00:00",
+      "shortDescription": "Is Hubie Halloween Worth Watching?",
+      "longDescription": "Adam Sandler's Hubie Halloween Review.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "110920202",
+      "title": "CBD Pills Showdown",
+      "content": {
+        "dateAdded": "2020-11-08T11:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/ba9bc7c9852d800c1e12cc65c9b6b89756b5c72c367f4f3625af260b4f82fe73/t/5fa9efaf296ff20400bbd71d/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "comedy",
+        "news"
+      ],
+      "thumbnail": "http://redcarpetblog.certaire.com/rokucrackh.jpg",
+      "releaseDate": "2020-11-08T11:57:28+00:00",
+      "shortDescription": "Reviewing Various CBD Pill Brands",
+      "longDescription": "We Review CBD Pills, Anand makes a Turkey Meatloaf, and BET and Black Lightning's Zoe Renee calls in to chat about Donald Glover and Atlanta.",
+      "tags": [
+        "comedy",
+        "style"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
      {
       "id": "110820203",
       "title": "Is Gen Z Bad at Halloween?",
@@ -1139,14 +1201,14 @@
     {
       "name": "fashion",
       "itemIds": [
-        "1622",
+        "110820201",
         "1620"
       ]
     },
     {
       "name": "style",
       "itemIds": [
-        "1622",
+        "110820201",
         "1620"
       ]
     }
