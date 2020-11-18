@@ -68,6 +68,37 @@
       "externalIds": null
     },
      {
+      "id": "111820201",
+      "title": "Supplement Showdown: Powdered Vitamins",
+      "content": {
+        "dateAdded": "2020-11-17T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/7efc871335a514d57526d3048781f77e85de0ba70eae80d52ecd3b6584ac363c/t/5fb53e696c462c0400603445/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/VB7S0sn1_background.jpg",
+      "releaseDate": "2020-11-17T18:57:28+00:00",
+      "shortDescription": "Supplement Showdown: Powdered Vitamins",
+      "longDescription": "Anand puts Powdered Vitamins to the Challenge, and even tries a PreNatal Vitamin as a Man!",
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
       "id": "111620201",
       "title": "Supplement Showdown: Probiotics, Collagen, and Turmeric",
       "content": {
