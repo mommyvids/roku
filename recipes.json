@@ -68,6 +68,37 @@
       "externalIds": null
     },
      {
+      "id": "112020201",
+      "title": "Cooking Sausage Shakshuka",
+      "content": {
+        "dateAdded": "2020-11-19T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/e0b2cca8d0a738598bb84abeeab56f8fdb0da76f7ffcb8eb04fcd0e86474fc39/t/5fb82abd6839440400b127f3/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/VB7S0sn1_background.jpg",
+      "releaseDate": "2020-11-19T18:57:28+00:00",
+      "shortDescription": "The Best Sausage Shakshuka Recipe",
+      "longDescription": "Anand takes on Chef Jim Mumford's Shakshuka recipe, and Anand's Mom makes a surprise visit to the kitchen!",
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+     {
       "id": "111820201",
       "title": "Supplement Showdown: Powdered Vitamins",
       "content": {
