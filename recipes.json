@@ -222,6 +222,37 @@
       "rating": null,
       "externalIds": null
     },
+    {
+      "id": "112420203",
+      "title": "Supplement Showdown: Egg Protein Powders",
+      "content": {
+        "dateAdded": "2020-11-21T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/4f7b0a7e281d0886a821dc11abe04ea543c7aca3535bb0f71d4af9cbe4d1ad8d/t/5fbdee5cc61ce50400c7a9e8/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/VB7S0sn1_background.jpg",
+      "releaseDate": "2020-11-21T18:57:28+00:00",
+      "shortDescription": "Supplement Showdown: Egg Protein",
+      "longDescription": "Anand taste tests Egg Proteins.",
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
      {
       "id": "112020202",
       "title": "Supplement Showdown: Veggie Powders with Green Tea",
