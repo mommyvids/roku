@@ -254,6 +254,37 @@
       "externalIds": null
     },
     {
+      "id": "112620202",
+      "title": "Authentic Indian Chana Masala Recipe",
+      "content": {
+        "dateAdded": "2020-11-25T18:57:28+00:00",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/79fc590613f14e6ec45530f03ce8b816834cf803cc4338d61f6fc3e0729ee8d8/t/5fc051ee8f5f970400f2a096/1351620000001-000001.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 31
+      },
+      "genres": [
+        "fashion",
+        "news"
+      ],
+      "thumbnail": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/cd7adbab0d9ed247a90f6dc559b7856ecac435b9e2187eb43a7c4a7e8e199fea/VB7S0sn1_background.jpg",
+      "releaseDate": "2020-11-25T18:57:28+00:00",
+      "shortDescription": "Authentic Indian Chana Masala Recipe",
+      "longDescription": "Anand decides to have a vegetarian Thanksgiving and does the Warrior-in-the-Kitchen Indian Chana (Chole) Masala Recipe!",
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
       "id": "112520202",
       "title": "Supplement Showdown: Veggie Powders or Pills?",
       "content": {
