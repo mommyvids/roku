@@ -1197,24 +1197,5 @@
       "order": "chronological"
     }
   ],
-  "playlists": [
-    {
-      "name": "food",
-      "itemIds": [
-        "1622",
-        "1620",
-        "112020191", 
-"11420191"
-      ]
-    },
-    {
-      "name": "cooking",
-      "itemIds": [
-        "1622",
-        "1620",
-        "112020191", 
-"11420191"
-      ]
-    }
-  ]
+  "playlists": []
 }
