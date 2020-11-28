@@ -1185,6 +1185,22 @@
     }
   ],
   "tvSpecials": [],
-  "categories": [],
-  "playlists": []
+  "categories": [
+    {
+      "name": "food",
+      "order": "chronological"
+    },
+    {
+      "name": "cooking",
+      "order": "chronological"
+    },
+    {
+      "name": "fashion",
+      "order": "chronological"
+    },
+    {
+      "name": "style",
+      "order": "chronological"
+    }
+  ],
 }
