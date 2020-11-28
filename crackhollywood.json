@@ -1216,32 +1216,14 @@
     }
   ],
   "tvSpecials": [],
-  "categories": [
+   "categories": [
     {
-      "name": "fashion",
-      "playlistName": "fashion",
+      "name": "style",
       "order": "chronological"
     },
     {
       "name": "comedy",
-      "playlistName": "fun",
       "order": "chronological"
-    }
-  ],
-  "playlists": [
-    {
-      "name": "fashion",
-      "itemIds": [
-        "110820201",
-        "1620"
-      ]
-    },
-    {
-      "name": "style",
-      "itemIds": [
-        "110820201",
-        "1620"
-      ]
-    }
+    }    
   ]
 }
