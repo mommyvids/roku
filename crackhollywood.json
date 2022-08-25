@@ -51,24 +51,7 @@
         ],
         "duration": 1260
       },
-      "genres": [
-        "comedy",
-        "news"{
-      "id": "082520221",
-      "title": "Best of CBD and Delta Vapes",
-      "content": {
-        "dateAdded": "2022-08-24T11:57:28+00:00",
-        "videos": [
-          {
-            "url": "https://sonicwaveintl.certaire.com/vapes2.mp4",
-            "quality": "SD",
-            "videoType": "MP4",
-            "bitrate": null
-          }
-        ],
-        "duration": 1260
-      },
-      "genres": [
+        "genres": [
         "comedy",
         "news"
       ],
